@@ -10,7 +10,7 @@
 //#define IP "oktavianabd.5gbfree.com" // ip komputer server
 //#define IP "192.168.1.103"    
 #define HOST "www.guardponic.kabapaski.com"// ip komputer server
-#define PASSCODE "419550"
+#define PASSCODE "**"
 
 #define ONE_WIRE_BUS 2
 OneWire oneWire(ONE_WIRE_BUS);
